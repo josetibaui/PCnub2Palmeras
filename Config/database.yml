@@ -1,0 +1,7 @@
+basico:
+    driver: mysql
+    host: 192.168.0.254
+    user: palmeras
+    password: palmeras
+    dbname: pcnub_palmeras
+    timezone: America/Guayaquil
